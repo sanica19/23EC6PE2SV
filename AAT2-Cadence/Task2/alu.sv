@@ -1,3 +1,9 @@
+//------------------------------------------------------------------------------
+// File       : alu code.sv
+// Author     : Sanica M S/ 1BM23EC229
+// Project    : SystemVerilog and Verification (23EC6PE2SV)
+// Description: alu
+//------------------------------------------------------------------------------
 //Design
 module alu (
   alu_if.DUT alu_if
